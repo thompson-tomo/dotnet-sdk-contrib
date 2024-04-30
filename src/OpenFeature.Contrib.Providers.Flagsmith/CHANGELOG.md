@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.7](https://github.com/open-feature/dotnet-sdk-contrib/compare/OpenFeature.Contrib.Providers.Flagsmith-v0.1.6...OpenFeature.Contrib.Providers.Flagsmith-v0.1.7) (2024-04-30)
+
+
+### 🧹 Chore
+
+* **deps:** update dependency flagsmith to v5.3.0 ([#184](https://github.com/open-feature/dotnet-sdk-contrib/issues/184)) ([65461c1](https://github.com/open-feature/dotnet-sdk-contrib/commit/65461c12f232da10627fe6be0892ba36945bedbe))
+* **deps:** update dotnet monorepo ([#141](https://github.com/open-feature/dotnet-sdk-contrib/issues/141)) ([5ff0e5f](https://github.com/open-feature/dotnet-sdk-contrib/commit/5ff0e5f4c5939e9a584809e623b1306f7546c5b1))
+
 ## [0.1.6](https://github.com/open-feature/dotnet-sdk-contrib/compare/OpenFeature.Contrib.Providers.Flagsmith-v0.1.5...OpenFeature.Contrib.Providers.Flagsmith-v0.1.6) (2024-03-14)
 
 
